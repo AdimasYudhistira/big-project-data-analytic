@@ -1,7 +1,7 @@
 # Big Project Data Analytic
 This is my big project data analytic (Fact Finding Project)
 ## Challenges
-1. **Creating a Dashboard in Looker Studio (combining data from GA, Firebase, and internal sources)**:
+1. **Creating a Dashboard in Looker Studio combining data from internal sources**:
    - Display the number of respondents.
    - Show the distribution of participants by region and educational level.
    - Analyze trends indicating the propensity of individuals to seek new jobs based on their work experience.
@@ -18,3 +18,7 @@ This is my big project data analytic (Fact Finding Project)
 4. **Providing Insights to Improve Services Based on Available Features (e.g., LIVE IG)**:
    - Analyze each type of live session.
    - Track airing dates and the conversion rates of live sessions.
+
+## Project Objectives
+1. **Providing Insights to the Taskforce for Improving Services Based on the Performance of Features Used by Talent**.
+2. **Providing Insights in the Form of a Wordcloud to Inform Talent About Service Feedback**.
