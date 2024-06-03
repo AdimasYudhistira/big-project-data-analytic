@@ -43,7 +43,7 @@ This is my big project data analytic (Fact Finding Project)
 **Creating Presentation**
 - After creating the dashboard, the next step is to create presentation slides based on the analysis results.
 
-## Result (Dashboard)
+## Result (Dashboard) [link dashboard](https://lookerstudio.google.com/reporting/3c8fdc2d-3fa7-4538-bb28-9ea72050e9e7)
 ![1](https://github.com/AdimasYudhistira/big-project-data-analytic/assets/132340008/50da3b27-3025-4dd1-bbc2-01c15c390c90)
 ![2](https://github.com/AdimasYudhistira/big-project-data-analytic/assets/132340008/d1f0996e-05b9-41b3-9e6b-931c5e44442b)
 ![3](https://github.com/AdimasYudhistira/big-project-data-analytic/assets/132340008/82cb5174-3ee1-4afc-9b63-f586bbb81256)
