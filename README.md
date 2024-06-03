@@ -22,3 +22,10 @@ This is my big project data analytic (Fact Finding Project)
 ## Project Objectives
 1. **Providing Insights to the Taskforce for Improving Services Based on the Performance of Features Used by Talent**.
 2. **Providing Insights in the Form of a Wordcloud to Inform Talent About Service Feedback**.
+
+## Result (Dashboard)
+![1](https://github.com/AdimasYudhistira/big-project-data-analytic/assets/132340008/50da3b27-3025-4dd1-bbc2-01c15c390c90)
+![3](https://github.com/AdimasYudhistira/big-project-data-analytic/assets/132340008/82cb5174-3ee1-4afc-9b63-f586bbb81256)
+![2](https://github.com/AdimasYudhistira/big-project-data-analytic/assets/132340008/d1f0996e-05b9-41b3-9e6b-931c5e44442b)
+![4](https://github.com/AdimasYudhistira/big-project-data-analytic/assets/132340008/50669354-b66c-49a7-9fa6-58eff6f7182b)
+
