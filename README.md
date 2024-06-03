@@ -24,11 +24,6 @@ This is my big project data analytic (Fact Finding Project)
 2. **Providing Insights in the Form of a Wordcloud to Inform Talent About Service Feedback**.
 
 ## Working Steps
-Berikut adalah terjemahan bagian "Working Steps" dari dokumen tersebut ke dalam bahasa Inggris:
-
----
-
-### Working Steps
 
 **Data Understanding**
 - Understand the content of the dataset, including the number of rows and columns, the content of each column, and so on.
